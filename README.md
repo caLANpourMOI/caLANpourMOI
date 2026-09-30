@@ -45,7 +45,7 @@ Je suis **Chef de Projet** spécialisé dans :
 
 🤖 **[Serveur Ollama](https://github.com/caLANpourMOI)** - LLM local pour workflows  
 📈 **[Stock Management Tool](https://github.com/caLANpourMOI)** - Gestion inventaire (React)  
-📊 **N8N Workflows** - Automation email, RSS, veille emplois
+📊 **N8N Workflows** - Automation email, RSS
 
 ---
 
