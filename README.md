@@ -43,7 +43,6 @@ Je suis **Chef de Projet** spécialisé dans :
 
 ## 📊 Projets en cours
 
-🎯 **[Dashboard 3CX Agent](https://github.com/caLANpourMOI)** - Web dashboard connecté à l'API 3CX  
 🤖 **[Serveur Ollama](https://github.com/caLANpourMOI)** - LLM local pour workflows  
 📈 **[Stock Management Tool](https://github.com/caLANpourMOI)** - Gestion inventaire (React)  
 📊 **N8N Workflows** - Automation email, RSS, veille emplois
